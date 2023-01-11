@@ -1,6 +1,6 @@
 # Concurrent Programming for Scalable Web Architectures
 
-# Online: http://erb.io/thesis
+# Online: https://berb.github.io/diploma-thesis/
 
 ## How to contribute
 
